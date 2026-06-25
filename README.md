@@ -72,4 +72,4 @@ These MRI images are relatively small in size, making them suitable for training
 
 ## ✍️ Author
 
-**Pravallika Sesha Sai Nunna**
+**Nalluri Sanjay**
